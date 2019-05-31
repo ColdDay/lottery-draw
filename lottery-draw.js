@@ -15,7 +15,7 @@ var model = [{
     key: 'level4',
     radio: 5
 }]
-function draw(prizes) {
+function Draw(prizes) {
  
     this.prizes = prizes;
     var prizeList = []
